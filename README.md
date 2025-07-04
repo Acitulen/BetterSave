@@ -3,21 +3,18 @@ This mod saves information that the game does not save, such as computer and lis
 
 **⚠️WARNING⚠️ This mod is designed to work with VotV-0.8.2c_0011. Using older or newer versions of the game may cause errors!**  
 
-If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/OmniVision).
+If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/BetterSave).
+
+**⚠️ Many features were removed because they are now part of the base game.**
 
 # Configs:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-**ScreenUpdateRadius** – Distance from the player at which the screen updates.  
-*High values may cause performance issues.
-  
-**ScreenUpdateDelay** – Camera image refresh delay (in seconds).  
-*Low values may cause performance issues.
+**SaveComputerData** – Enables saving the computer's power state and the currently opened tab. Default: true  
+
+**SaveListenerData** – Enables saving the state of the signal listening panel, including volume and visualization mode. Default: true  
 
 
-
-
-This mod saves information that the game does not save, such as computer and signal processing state.
 
 # Saveable data: 
 ### Computer data:
@@ -27,8 +24,6 @@ This mod saves information that the game does not save, such as computer and sig
 ### Signal listening panel data:
 * Volume.
 * Visualization mode.
-
-*With voidmod saveable data can be edited in config.
 
 
 # Manual instalation guide.
@@ -50,6 +45,6 @@ This mod saves information that the game does not save, such as computer and sig
 <details>
 <summary>Install BetterSave</summary>
 
-1. Copy `BetterSave.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
+1. Copy `BetterSave.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory. 
 </details>
 
