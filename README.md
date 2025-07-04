@@ -20,7 +20,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 ---
 
-# **Saveable data**: 
+# Saveable data: 
 ### Computer:
 - Power state (on/off)  
 - Opened tab
@@ -31,7 +31,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 ---
 
-# **Manual instalation guide**.
+# Manual instalation guide.
 
 <details>
 <summary>Install unreal shimloader</summary>
