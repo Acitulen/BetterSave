@@ -10,9 +10,9 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 # Configs:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-**SaveComputerData** – Enables saving the computer's power state and the currently opened tab. Default: true  
+**SaveComputerData** – Enables saving the computer's power state and the currently opened tab. *Default: true  
 
-**SaveListenerData** – Enables saving the state of the signal listening panel, including volume and visualization mode. Default: true  
+**SaveListenerData** – Enables saving the state of the signal listening panel, including volume and visualization mode. *Default: true  
 
 
 
