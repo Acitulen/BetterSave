@@ -9,7 +9,7 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 
 ---
 
-# Configs:
+## Configs:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
 - **SaveComputerData** – Enables saving the computer’s power state and the currently opened tab.  
