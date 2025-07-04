@@ -1,4 +1,4 @@
-# BetterSave
+# **BetterSave**
 This mod saves information that the game does not save, such as computer and listening panel state.
 
 **⚠️WARNING⚠️ This mod is designed to work with VotV-0.8.2c_0011. Using older or newer versions of the game may cause errors!**  
@@ -7,26 +7,29 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 
 **⚠️ Many features were removed because they are now part of the base game.**
 
+---
+
 # Configs:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-**SaveComputerData** – Enables saving the computer's power state and the currently opened tab. Default: true  
+- **SaveComputerData** – Enables saving the computer's power state and the currently opened tab. Default: true  
 
-**SaveListenerData** – Enables saving the state of the signal listening panel, including volume and visualization mode. Default: true  
+- **SaveListenerData** – Enables saving the state of the signal listening panel, including volume and visualization mode. Default: true  
 
+---
 
+# **Saveable data**: 
+### Computer:
+- Power state (on/off)  
+- Opened tab
 
-# Saveable data: 
-### Computer data:
-* Computer turned on/off.
-* Opened tab.
+### Signal Listening Panel:
+- Volume  
+- Visualization mode
 
-### Signal listening panel data:
-* Volume.
-* Visualization mode.
+---
 
-
-# Manual instalation guide.
+# **Manual instalation guide**.
 
 <details>
 <summary>Install unreal shimloader</summary>
