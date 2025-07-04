@@ -9,7 +9,7 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 
 ---
 
-## Configs:
+# **Configs**:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
 - **SaveComputerData** – Enables saving the computer’s power state and the currently opened tab.  
@@ -20,7 +20,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 ---
 
-# Saveable data: 
+# **Saveable data**: 
 ### Computer:
 - Power state (on/off)  
 - Opened tab
@@ -31,7 +31,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 ---
 
-# Manual instalation guide.
+# **Manual instalation guide**.
 
 <details>
 <summary>Install unreal shimloader</summary>
