@@ -10,7 +10,7 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 ---
 
 # **Configs**:
-Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
+Configs can be accessed in the game settings under the **Mod configs** section or by pressing **Ctrl+Shift+C**.
 
 - **SaveComputerData** – Enables saving the computer’s power state and the currently opened tab.  
   **Default:** `true`
@@ -31,7 +31,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 ---
 
-# **Manual instalation guide**.
+# **Manual installation guide**.
 
 <details>
 <summary>Install unreal shimloader</summary>
@@ -52,4 +52,3 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 1. Copy `BetterSave.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory. 
 </details>
-
