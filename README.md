@@ -5,8 +5,6 @@ This mod saves information that the game does not save, such as computer and lis
 
 If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/BetterSave).
 
-**⚠️ Many features were removed because they are now part of the base game.**
-
 ---
 
 # **Configs**:
